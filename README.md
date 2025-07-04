@@ -9,7 +9,7 @@
    
 <b> This text will b0lded </b>
  
-    <br />
+    
 
 <i> this text will be italic </i>
 
