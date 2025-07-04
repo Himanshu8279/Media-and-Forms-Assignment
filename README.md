@@ -15,7 +15,7 @@
 
     <br />
 <u> This text will be underline </u>
-    <br />
+    <br>
  
 <p> This text is normal <sup> This will be super scripted </sup> This is normal again </p>
     <br />
