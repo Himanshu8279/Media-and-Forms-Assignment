@@ -1,7 +1,9 @@
 # Media-and-Forms-Assignment
 
 <!DOCTYPE>
-<head>  <title> assignment</title> 
+<html>
+<head>  
+  <title> assignment </title>
 </head>
 
 <body>
@@ -10,3 +12,4 @@
 
 
 </body>
+</html>
